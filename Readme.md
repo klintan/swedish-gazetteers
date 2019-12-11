@@ -1,4 +1,4 @@
-#Swedish gazetteers
+# Swedish gazetteers
 
 A bunch of Swedish gazetteers, swedish locations, names and a bunch of
 organisations.
